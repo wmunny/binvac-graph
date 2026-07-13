@@ -99,10 +99,10 @@ entre empresas está en fase de validar interés, ver sección anterior).
 
 El código y el método (`AGENTS.md`, `scripts/`, plantillas, estructura de la
 wiki) se publican bajo licencia [MIT](LICENSE): puedes clonarlos, adaptarlos y
-reutilizarlos libremente, también con fines comerciales.
+reutilizarlos libremente, también con fines comerciales. Ver [`NOTICE.md`](NOTICE.md)
+para la atribución de las fichas BINVAC (INSST) y de los casos aportados por
+terceros, que no se rigen por la MIT.
 
-Las fichas BINVAC provienen del **INSST** (Instituto Nacional de Seguridad y Salud
-en el Trabajo) y son de acceso público con fines preventivos; mantienen su fuente
-y condiciones de uso propias. Este cerebro es una herramienta de apoyo; la
-aplicación de sus contenidos a situaciones concretas debe ser evaluada por
-profesionales competentes en Prevención de Riesgos Laborales.
+Este cerebro es una herramienta de apoyo; la aplicación de sus contenidos a
+situaciones concretas debe ser evaluada por profesionales competentes en
+Prevención de Riesgos Laborales.

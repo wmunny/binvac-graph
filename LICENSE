@@ -19,13 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Esta licencia MIT cubre el código y el método (scripts, `AGENTS.md`,
-plantillas, estructura de la wiki) de este repositorio. El contenido de las
-fichas BINVAC (`raw/`, `wiki/sources/BINVAC_*.md`) procede del INSST
-(Instituto Nacional de Seguridad y Salud en el Trabajo) y es de acceso
-público con fines preventivos; consulta la fuente original del INSST para
-sus condiciones de uso específicas. Los casos aportados por terceros en
-`wiki/investigaciones/` mantienen la autoría de quien los aporta.
