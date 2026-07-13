@@ -1,4 +1,4 @@
-# Cerebro de investigación de accidentes laborales (BINVAC)
+# Cerebro de investigación de accidentes laborales (BINVACGRAPH)
 
 Proyecto de investigación colaborativo: un **cerebro** (wiki de markdown mantenida
 por IA) especializado en **investigación de accidentes de trabajo** y en la
