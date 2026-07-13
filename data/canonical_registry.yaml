@@ -1,0 +1,267 @@
+# Registro canónico ESAW/CNAE → slug de entidad en la wiki.
+# Curado por el agente; el sync solo lee. text_overrides desambigua códigos
+# reutilizados con significados distintos en el corpus BINVAC.
+
+forma:
+  "31":
+    slug: formas/golpe-por-caida
+    titulo: "Golpe por caída del trabajador"
+  "62":
+    slug: formas/atrapamiento-bajo
+    titulo: "Atrapamiento / aplastamiento bajo algo"
+  "63":
+    slug: formas/atrapamiento-o-aplastamiento
+    titulo: "Atrapamiento / aplastamiento entre objetos"
+  "61":
+    slug: formas/atrapamiento-o-aplastamiento
+    titulo: "Atrapamiento / aplastamiento"
+  "42":
+    slug: formas/caida-de-agente-material
+    titulo: "Choque o golpe contra objeto que cae"
+  "12":
+    slug: formas/contacto-electrico
+    titulo: "Contacto directo con la electricidad"
+  "11":
+    slug: formas/contacto-electrico
+    titulo: "Contacto indirecto / arco eléctrico"
+  "71":
+    slug: formas/sobreesfuerzo
+    titulo: "Sobreesfuerzo físico"
+  "64":
+    slug: formas/amputacion
+    titulo: "Amputación"
+  "13":
+    slug: formas/contacto-termico
+    titulo: "Contacto con llamas o temperaturas elevadas"
+  "23":
+    slug: formas/exposicion-atmosferas-peligrosas
+    titulo: "Exposición a gases o partículas"
+  "44":
+    slug: formas/choque-contra-objeto-en-movimiento
+    titulo: "Choque contra objeto en movimiento"
+  "16":
+    slug: formas/contacto-sustancias-peligrosas
+    titulo: "Contacto con sustancias peligrosas"
+  "15":
+    slug: formas/contacto-sustancias-peligrosas
+    titulo: "Contacto por inhalación"
+  "72":
+    slug: formas/exposicion-a-presion
+    titulo: "Exposición a presión"
+  "22":
+    slug: formas/sepultamiento
+    titulo: "Sepultamiento bajo sólido"
+  "51":
+    slug: formas/corte-con-herramienta
+    titulo: "Corte con herramienta"
+  "45":
+    slug: formas/colision
+    titulo: "Colisión con objeto"
+
+desviacion:
+  "33":
+    slug: desviaciones/caida-de-agente-material
+    titulo: "Caída o derrumbamiento de agente material"
+    text_overrides:
+      - pattern: "vuelco"
+        slug: desviaciones/vuelco-de-la-maquina
+        titulo: "Vuelco de la máquina"
+  "42":
+    slug: desviaciones/perdida-de-control-transporte
+    titulo: "Pérdida de control de medio de transporte o equipo de carga"
+  "41":
+    slug: desviaciones/perdida-de-control-maquina
+    titulo: "Pérdida de control de máquina"
+  "43":
+    slug: desviaciones/perdida-de-control-materia
+    titulo: "Pérdida de control de la materia manipulada"
+  "51":
+    slug: desviaciones/caida-desde-altura
+    titulo: "Caída de persona desde altura"
+  "31":
+    slug: desviaciones/rotura-de-proteccion-colectiva
+    titulo: "Rotura de protección colectiva"
+  "34":
+    slug: desviaciones/caida-agente-material-sobre-trabajador
+    titulo: "Caída de agente material sobre el trabajador"
+  "44":
+    slug: desviaciones/proyeccion-de-materiales
+    titulo: "Proyección de materiales"
+  "12":
+    slug: desviaciones/problema-electrico
+    titulo: "Problema eléctrico"
+  "13":
+    slug: desviaciones/explosion
+    titulo: "Explosión"
+  "63":
+    slug: desviaciones/atrapamiento-por-elemento
+    titulo: "Atrapamiento o arrastre por elemento"
+  "71":
+    slug: desviaciones/sobreesfuerzo-mecanico
+    titulo: "Sobreesfuerzo mecánico"
+  "22":
+    slug: desviaciones/proyeccion-liquidos
+    titulo: "Proyección o derrame de líquidos"
+  "23":
+    slug: desviaciones/formacion-de-gases
+    titulo: "Formación o emanación de gases"
+  "14":
+    slug: desviaciones/incendio
+    titulo: "Incendio"
+  "24":
+    slug: desviaciones/emanacion-de-humos
+    titulo: "Emanación de humos"
+  "35":
+    slug: desviaciones/vuelco-sobre-trabajador
+    titulo: "Vuelco de agente material sobre trabajador"
+  "30":
+    slug: desviaciones/caida-de-agente-material
+    titulo: "Caída de agente material"
+  "70":
+    slug: desviaciones/manipulacion-forzada
+    titulo: "Manipulación en postura forzada"
+  "11":
+    slug: desviaciones/arco-electrico
+    titulo: "Arco eléctrico sin contacto directo"
+  "64":
+    slug: desviaciones/gesto-inoportuno
+    titulo: "Gesto inoportuno"
+  "73":
+    slug: desviaciones/agacharse
+    titulo: "Agacharse"
+  "40":
+    slug: desviaciones/problema-electrico
+    titulo: "Problema eléctrico"
+  "99":
+    slug: desviaciones/exposicion-ambiental
+    titulo: "Exposición ambiental no codificada"
+
+agente_material:
+  "11030000":
+    slug: agentes-materiales/gruas-y-equipos-de-elevacion
+    titulo: "Grúas y equipos de elevación"
+  "11040200":
+    slug: agentes-materiales/carretillas-elevadoras
+    titulo: "Carretillas elevadoras"
+  "11040000":
+    slug: agentes-materiales/carretillas-elevadoras
+    titulo: "Carretillas elevadoras"
+  "09020300":
+    slug: agentes-materiales/tractores-agricolas
+    titulo: "Tractores agrícolas"
+  "09020301":
+    slug: agentes-materiales/tractores-agricolas
+    titulo: "Tractores agrícolas"
+  "01020100":
+    slug: agentes-materiales/superficies-en-general
+    titulo: "Superficies en general"
+  "10110200":
+    slug: agentes-materiales/sierras-de-cinta
+    titulo: "Sierras de cinta"
+  "11010200":
+    slug: agentes-materiales/cintas-transportadoras
+    titulo: "Cintas transportadoras"
+  "11040201":
+    slug: agentes-materiales/carretillas-elevadoras
+    titulo: "Carretillas elevadoras"
+  "11010201":
+    slug: agentes-materiales/cintas-transportadoras
+    titulo: "Cintas transportadoras"
+  "07040100":
+    slug: agentes-materiales/amoladoras
+    titulo: "Amoladoras"
+  "07010400":
+    slug: agentes-materiales/sierras-de-cadena
+    titulo: "Sierras de cadena portátiles"
+  "07010401":
+    slug: agentes-materiales/sierras-de-cadena
+    titulo: "Sierras de cadena portátiles"
+  "05020400":
+    slug: agentes-materiales/instalaciones-electricas
+    titulo: "Instalaciones y cables eléctricos"
+  "05020401":
+    slug: agentes-materiales/instalaciones-electricas
+    titulo: "Instalaciones y cables eléctricos"
+  "05020402":
+    slug: agentes-materiales/instalaciones-electricas
+    titulo: "Instalaciones y cables eléctricos"
+  "02040100":
+    slug: agentes-materiales/andamios
+    titulo: "Andamios"
+  "14010000":
+    slug: agentes-materiales/materiales-de-construccion
+    titulo: "Materiales de construcción"
+  "14010100":
+    slug: agentes-materiales/materiales-de-construccion
+    titulo: "Materiales de construcción"
+  "03010100":
+    slug: agentes-materiales/excavaciones-y-zanjas
+    titulo: "Excavaciones y zanjas"
+  "11020100":
+    slug: agentes-materiales/plataformas-elevadoras
+    titulo: "Plataformas elevadoras de personas"
+  "11020103":
+    slug: agentes-materiales/plataformas-elevadoras
+    titulo: "Plataformas elevadoras de personas"
+  "02010100":
+    slug: agentes-materiales/escaleras
+    titulo: "Escaleras"
+  "02010200":
+    slug: agentes-materiales/escaleras
+    titulo: "Escaleras y cubiertas"
+  "10080300":
+    slug: agentes-materiales/maquinas-de-conformado-metal
+    titulo: "Máquinas de conformado de metal"
+  "10080307":
+    slug: agentes-materiales/maquinas-de-conformado-metal
+    titulo: "Máquinas de conformado de metal"
+  "11020000":
+    slug: agentes-materiales/gatos-y-cabrestantes
+    titulo: "Gatos y cabrestantes"
+  "11090400":
+    slug: agentes-materiales/contenedores-y-big-bags
+    titulo: "Contenedores y big bags"
+  "11090401":
+    slug: agentes-materiales/contenedores-y-big-bags
+    titulo: "Contenedores y big bags"
+
+sector:
+  "41":
+    slug: sectores/construccion
+    titulo: "Construcción"
+  "43":
+    slug: sectores/construccion
+    titulo: "Construcción especializada"
+  "45":
+    slug: sectores/construccion
+    titulo: "Construcción e instalaciones"
+  "31":
+    slug: sectores/industria-manufacturera
+    titulo: "Industria manufacturera"
+  "25":
+    slug: sectores/industria-manufacturera
+    titulo: "Industria manufacturera"
+  "29":
+    slug: sectores/industria-manufacturera
+    titulo: "Industria manufacturera"
+  "10":
+    slug: sectores/industria-alimentaria
+    titulo: "Industria alimentaria"
+  "01":
+    slug: sectores/agricultura-ganaderia
+    titulo: "Agricultura y ganadería"
+  "02":
+    slug: sectores/silvicultura-pesca
+    titulo: "Silvicultura y pesca"
+  "03":
+    slug: sectores/silvicultura-pesca
+    titulo: "Pesca y acuicultura"
+  "46":
+    slug: sectores/comercio
+    titulo: "Comercio"
+  "81":
+    slug: sectores/servicios-auxiliares
+    titulo: "Servicios auxiliares"
+  "35":
+    slug: sectores/energia
+    titulo: "Energía"

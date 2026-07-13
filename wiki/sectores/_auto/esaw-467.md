@@ -1,0 +1,21 @@
+---
+tipo: entidad
+titulo: Comercio al por mayor de chatarra y productos de desecho
+categoria: sector
+auto_generada: true
+fichas_auto:
+- 089
+tags:
+- entidad
+- sectores
+- auto
+---
+
+# Comercio al por mayor de chatarra y productos de desecho
+
+> Página generada automáticamente por `scripts/sync_links.py`. Promover a entidad canónica cuando se complete la síntesis.
+
+## Fichas relacionadas
+<!-- AUTO:FICHAS:START -->
+- [[BINVAC_089|089]] — (auto) Golpe por caída de objeto desprendido en trabajos de desguace de depósito metálico
+<!-- AUTO:FICHAS:END -->

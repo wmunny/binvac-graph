@@ -1,0 +1,21 @@
+# Fuentes públicas BINVAC: no se versionan, se regeneran con download_binvac.py
+raw/*.pdf
+
+# Casos aportados por expertos que NO deban compartirse públicamente
+# (colócalos aquí y se ignoran; su síntesis vive en wiki/sources/)
+raw/privado/
+
+# Artefactos y temporales
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.obsidian/workspace*
+.obsidian/cache
+wiki/.obsidian/workspace*
+wiki/.obsidian/cache

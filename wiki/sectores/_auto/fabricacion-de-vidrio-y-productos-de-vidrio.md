@@ -1,0 +1,21 @@
+---
+tipo: entidad
+titulo: Fabricación de vidrio y productos de vidrio
+categoria: sector
+auto_generada: true
+fichas_auto:
+- '054'
+tags:
+- entidad
+- sectores
+- auto
+---
+
+# Fabricación de vidrio y productos de vidrio
+
+> Página generada automáticamente por `scripts/sync_links.py`. Promover a entidad canónica cuando se complete la síntesis.
+
+## Fichas relacionadas
+<!-- AUTO:FICHAS:START -->
+- [[BINVAC_054|054]] — (auto) Aplastamiento del trabajador contra una mesa de corte a consecuencia de la caída de láminas de vidri
+<!-- AUTO:FICHAS:END -->
