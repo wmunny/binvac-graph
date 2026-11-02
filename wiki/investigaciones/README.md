@@ -20,3 +20,7 @@ Usa la plantilla [[investigacion|plantilla de investigación]] para las nuevas.
   aplastamiento de la mano izquierda en una prensa plegadora al ajustar
   manualmente una chapa mal alineada (taller de fabricación metalúrgica).
   Combina factores de [[BINVAC_019]], [[BINVAC_014]] y [[BINVAC_047]].
+- [[atrapamiento-guante-torno-convencional-mecanizado]] — Atrapamiento y
+  arrastre de mano y antebrazo por guante enganchado en eje en rotación al
+  verificar el acabado sin detener un torno convencional (taller de
+  mecanizado). Caso gemelo de [[BINVAC_026]] con factor guante ([[BINVAC_055]]).

@@ -2,7 +2,7 @@
 tipo: causa
 titulo: "Introducción de manos en zona de peligro por exceso de confianza"
 categoria: individuales
-fichas: ["014"]
+fichas: ["014", "026"]
 tags:
   - causa
 ---
@@ -31,3 +31,8 @@ mal alineada.
 - [[investigaciones/atrapamiento-mano-prensa-plegadora-taller-metalurgico]] —
   operario con 5 años de experiencia introduce la mano para corregir la
   alineación de la chapa en lugar de detener la máquina o usar un tope.
+- [[BINVAC_026]] — operario lija a mano un eje girando en torno de taller de
+  mecanizado; método de trabajo inadecuado pese a ficha a pie de máquina.
+- [[investigaciones/atrapamiento-guante-torno-convencional-mecanizado]] —
+  tornero con 3 años de experiencia verifica el acabado acercando la mano al
+  eje sin detener el torno.

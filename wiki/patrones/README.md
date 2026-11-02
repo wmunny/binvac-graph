@@ -16,3 +16,4 @@ SÃ­ntesis transversal: combinaciones recurrentes de *agente material + desviaciÃ
 - [[contacto-electrico]]
 - [[atrapamiento-en-cinta-transportadora]]
 - [[atrapamiento-en-punto-de-operacion-de-maquinas]]
+- [[atrapamiento-contacto-con-pieza-en-rotacion]]

@@ -12,7 +12,7 @@ tags:
 - **Grupos por forma (canónico)**: 42
 - **Grupos por sector (canónico)**: 40
 
-Páginas clave: [[overview]] · [[log]] · [[causas/README|Causas]] · [[medidas-preventivas/README|Catálogo de medidas]] · [[patrones/README|Patrones]] · [[investigaciones/README|Investigaciones]]
+Páginas clave: [[overview]] · [[log]] · [[causas/README|Causas]] · [[medidas-preventivas/README|Catálogo de medidas]] · [[patrones/README|Patrones]]
 
 ## Por forma / modalidad de la lesión
 

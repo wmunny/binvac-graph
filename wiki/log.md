@@ -61,3 +61,17 @@ Creado el patrón transversal
 [[patrones/atrapamiento-en-punto-de-operacion-de-maquinas]]. Datos desconocidos
 (empresa, CNAE exacto, estado real de los resguardos de la prensa) marcados
 explícitamente como tales, sin inventar.
+
+## [2026-07-13] investigacion | Atrapamiento por guante en torno convencional (taller de mecanizado)
+Investigado un accidente nuevo (no BINVAC) aportado por un usuario: tornero
+verifica el acabado de un eje acercando la mano al torno sin detener el giro;
+el guante se engancha en la pieza y arrastra mano y antebrazo. Caso gemelo de
+[[BINVAC_026]] (torno en taller de mecanizado, intervención manual con pieza en
+rotación); factor guante relacionado con [[BINVAC_055]] y [[BINVAC_039]].
+Archivado en
+`wiki/investigaciones/atrapamiento-guante-torno-convencional-mecanizado.md`.
+Creadas causa [[causas/uso-de-guantes-ante-piezas-en-rotacion]], medidas
+[[medidas-preventivas/parada-obligatoria-para-inspeccion-en-tornos]] y
+[[medidas-preventivas/prohibicion-de-guantes-ante-maquinas-rotativas]], entidad
+[[agentes-materiales/tornos-convencionales]] y patrón
+[[patrones/atrapamiento-contacto-con-pieza-en-rotacion]].
